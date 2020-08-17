@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+/*import logo from './logo.svg';*/
+/*import './App.css';*/
 import Summary from './components/summary'
 import Readme from './components/readme_md'
 import Code from './components/code'
