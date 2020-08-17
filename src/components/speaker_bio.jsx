@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export default class Speaker extends Component {
   render() {
     return (
-      <div class="bio">
+      <div className="bio">
         <h2 className="title flash">@speaker_bio</h2>
         I've spoken at{" "}
         <a href="https://2017.rubyconfindia.org">RubyConfIndia 2017</a> and{" "}
