@@ -10,18 +10,18 @@ export default class Code extends Component {
           <ul>
             <li className="fun">
               <div className="left">Languages</div>
-              <div className="desc">Ruby, Javascript, Python, C</div>
+              <div className="desc">Java, Javascript, Python, C</div>
             </li>
             <li className="job">
-              <div className="left">Databases</div>
+              <div className="left">Development Tools</div>
               <div className="desc">
-                MongoDb, MySQL, PostGreSQL, Redis, ElasticSearch, DynamoDb
+                VS Code, Eclipse, Git, GitHub, Postman, CLI  (Bash & Powershell), Linux
               </div>
             </li>
             <li className="event">
               <div className="left">Front-end</div>
               <div className="desc">
-                jQuery, Backbone.js, Marionette.js, React
+                React, Sass, Html, Css
               </div>
             </li>
           </ul>
