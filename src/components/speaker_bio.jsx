@@ -4,7 +4,7 @@ export default class Speaker extends Component {
   render() {
     return (
       <div className="bio">
-        <h2 className="title flash">@speaker_bio</h2>
+        <h2 className="title flash">~$ ls keySkills </h2>
         I've spoken at{" "}
         <a href="https://2017.rubyconfindia.org">RubyConfIndia 2017</a> and{" "}
         <a href="https://2017.deccanrubyconf.org/">DeccanRubyConf 2017</a>.

@@ -5,7 +5,7 @@ export default class Readme extends Component {
     return (
       <div className="changelog">
         <h2 className="title flash">README.md</h2>
-        Some things that define me.
+        Personal Summary
         <div className="exp">
           <ul>
             <li className="fun">

@@ -14,9 +14,9 @@ function App() {
     <div className="App">
       <Summary />
       <Readme />
+      <Contributing />
       <Code />
       <Speaker />
-      <Contributing />
       <Changelog />
       <Ending />
     </div>

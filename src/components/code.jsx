@@ -10,16 +10,16 @@ export default class Code extends Component {
           <ul>
             <li className="fun">
               <div className="left">Languages</div>
-              <div className="desc">Java, Javascript, Python, C</div>
+              <div className="desc">Java, C, Javascript, Python</div>
             </li>
             <li className="job">
               <div className="left">Development Tools</div>
               <div className="desc">
-                VS Code, Eclipse, Git, GitHub, Postman, CLI  (Bash & Powershell), Linux
+                VS Code, Eclipse, Git, GitHub, Postman, TravisCI, Bash, Powershell
               </div>
             </li>
             <li className="event">
-              <div className="left">Front-end</div>
+              <div className="left">Web Development</div>
               <div className="desc">
                 React, Sass, Html, Css
               </div>

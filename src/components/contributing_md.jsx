@@ -10,19 +10,15 @@ export default class Contributing extends Component {
           <ul>
             <li className="event">
               <div className="left">
-                <a href="https://classroom.github.com">GitHub Classroom</a>
+                <a href="https://github.com/tuzun89/tuzun89.github.io">Personal portfolio</a>
               </div>
               <div className="desc">
                 <p>
-                  <a href="https://education.github.com">GitHub Education's</a>{" "}
-                  teacher focused product for distributing programming
-                  assignments to students. I helped refactoring the assignment
-                  creation process and made performance improvements. More
-                  details on{" "}
-                  <a href="https://github.blog/2019-08-27-github-classroom-gets-a-reliability-and-performance-boost/">
-                    this blog post
-                  </a>
-                  .
+                  <a href="https://en.wikipedia.org/wiki/Single-page_application">'Single Page Application' </a>
+                  developed using the<a href="https://reactjs.org/docs/getting-started.html"> React.js</a> library / framework
+                  to display and highlight key skills to potential employers.  <br></br><br></br>Hosted on <a href="https://pages.github.com/">'GitHub Pages' </a> utilising
+                  <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd"> CI/CD </a> through <a href="https://docs.travis-ci.com/user/tutorial/">TravisCI </a> 
+                  to automate the deployment process.
                 </p>
               </div>
             </li>
