@@ -5,17 +5,15 @@ export default class Speaker extends Component {
     return (
       <div className="bio">
         <h2 className="title flash">~$ ls keySkills </h2>
-        I've spoken at{" "}
-        <a href="https://2017.rubyconfindia.org">RubyConfIndia 2017</a> and{" "}
-        <a href="https://2017.deccanrubyconf.org/">DeccanRubyConf 2017</a>.
         Here's my bio
         <div className="exp">
-          Shaunak is a Computer science graduate Student at University of
-          Maryland, Baltimore-County. He has 4+ years of experience in
-          developing large scale Rails based products. Introduced to Ruby 8
-          years ago, it has since been his go-to language. When not working,
-          you'll probably find him listening to Metallica or exploring complex
-          magic systems of Brandon Sanderson's Cosmere.
+          Tugay is currently employed as a structural engineer in London, UK and
+          has 7 years of experience designing buildings throughout the UK. He is
+          also a computer science postgraduate student at the University of
+          York. Tugay spends his spare time working on personal programming
+          projects in order to fully understand the software engineering design
+          process from the ground up while focusing on fundamental computer
+          science principles.
         </div>
       </div>
     );
