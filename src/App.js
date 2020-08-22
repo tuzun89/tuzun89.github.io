@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Summary from './components/summary'
 import Readme from './components/readme_md'
 import Code from './components/code'
