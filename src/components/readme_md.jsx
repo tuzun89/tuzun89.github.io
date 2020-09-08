@@ -29,9 +29,8 @@ export default class Readme extends Component {
                   </li>
                   <li>A quick and perpetual learner.</li>
                   <li>
-                    An effective leader and a good mentor. I have constantly
-                    mentored juniors at my job and have also hosted many local
-                    programming community meetups.
+                    An effective leader and a good mentor. I reguarly delegate
+                    work to and mentor graduate engineers.
                   </li>
                 </ul>
               </div>

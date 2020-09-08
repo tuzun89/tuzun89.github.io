@@ -15,7 +15,7 @@ export default class Code extends Component {
             <li className="job">
               <div className="left">Development Tools</div>
               <div className="desc">
-                VS Code, Eclipse, Git, GitHub, Postman, TravisCI, Bash, Powershell
+                VS Code, Eclipse, git, GitHub, Postman, TravisCI, Bash, Powershell
               </div>
             </li>
             <li className="event">

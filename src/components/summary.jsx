@@ -6,7 +6,7 @@ export default class Summary extends Component {
       <div className="container">
         <h1>Tugay Özgen Uzunoğlu</h1>
         <h2>
-          MSc Computer Science at University of York in York, UK.
+          MSc Computer Science at University of York, UK.
         </h2>
         <h2>
           MEng Civil Engineering from Heriot-Watt University in Edinburgh, UK.
