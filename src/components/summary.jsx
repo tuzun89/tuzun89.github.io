@@ -12,8 +12,9 @@ export default class Summary extends Component {
           MEng Civil Engineering from Heriot-Watt University in Edinburgh, UK.
         </h2>
         <div className="intro">
-          Currently a Structural Engineer at <a href="http://clancy.co.uk/" rel="noopener noreferrer" target="_blank">CCL </a> 
-          and previously a Project Engineer at <a href="https://www.aksward.com/" rel="noopener noreferrer" target="_blank">AKSW</a>.
+          Currently a Structural Engineer at <a href="https://www.elliottwood.co.uk/" rel="noopener noreferrer" target="_blank">ElliotWood </a> 
+          and previously employed at the same capacity at <a href="http://clancy.co.uk/" rel="noopener noreferrer" target="_blank">CCL </a> 
+          abd also at <a href="https://www.aksward.com/" rel="noopener noreferrer" target="_blank">AKSW</a>.
           <p>An aspiring  Software Developer - looking for opportunities at a Junior level.</p>
         </div>
         <div className="links">
